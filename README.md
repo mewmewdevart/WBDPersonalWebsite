@@ -3,7 +3,7 @@ WBDPersonalWebsite
 </h1>
 
 <p align="center">
-	<b><i>[ Second project ] The Complete Web Development Bootcamp course on Udemy, taught by Angela Yu.</i></b><br>
+	<b><i>[ First project ] The Complete Web Development Bootcamp course on Udemy, taught by Angela Yu.</i></b><br>
 </p>
 
 <p align="center">
