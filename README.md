@@ -1,5 +1,5 @@
 <h1 align="center">
-WBDMySite
+WBDPersonalWebsite
 </h1>
 
 <p align="center">
@@ -7,9 +7,9 @@ WBDMySite
 </p>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/WBDMySite?color=6272a4" />
-	<img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/WBDMySite?color=6272a4"/>
-	<img alt="License" src="https://img.shields.io/github/license/mewmewdevart/WBDMySite?color=6272a4"/>
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mewmewdevart/WBDPersonalWebsite?color=6272a4" />
+	<img alt="Main language" src="https://img.shields.io/github/languages/top/mewmewdevart/WBDPersonalWebsite?color=6272a4"/>
+	<img alt="License" src="https://img.shields.io/github/license/mewmewdevart/WBDPersonalWebsite?color=6272a4"/>
 </p>
 
 > _Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Udemy! <br>
